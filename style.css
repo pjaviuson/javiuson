@@ -19,6 +19,25 @@ h1 {
   color: #073763;
 }
 
+.aviso-codex {
+  margin: 24px 0;
+  padding: 16px;
+  border-left: 5px solid #0b5394;
+  background-color: #eaf3ff;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.aviso-codex strong,
+.aviso-codex span {
+  display: block;
+}
+
+.aviso-codex strong {
+  color: #073763;
+  margin-bottom: 6px;
+}
+
 button {
   background-color: #073763;
   color: white;
