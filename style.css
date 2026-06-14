@@ -27,7 +27,21 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
+.bloque {
+  margin-top: 30px;
+  text-align: left;
+  background-color: #eef3f8;
+  padding: 20px;
+  border-radius: 10px;
+}
 
+.bloque h2 {
+  color: #073763;
+}
+
+.bloque li {
+  margin-bottom: 8px;
+}
 button:hover {
   background-color: #0b5394;
 }
